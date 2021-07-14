@@ -12,5 +12,8 @@ import torch.optim as optim
 from torch.utils.data import DataLoader
 
 from torchsummary import summary
+ 
+trainset =  torchvision.datasets.FashionMNIST(root=".", train= True,download= True)
+testset  = torchvision.datasets.FashionMNIST(root=".", train=False, download=True)
 
-from cifar10 import CIFAR10
+print(trainset.classes)
