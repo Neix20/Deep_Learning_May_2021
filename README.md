@@ -2,6 +2,11 @@
 
 Deep Learning May 2021 Assignment
 
+## Teammates
+1. Tan Xi En (Leader)
+2. Lee Hao Jie
+3. Yikanin Yit
+
 ## Learning Objectives
 1. To Familiarize ourselves with PyTorch Library
 2. To Classify Fashion Article images using Convolutional Neural Network Models
