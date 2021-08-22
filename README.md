@@ -13,10 +13,10 @@ Deep Learning May 2021 Assignment
 
 ## Dataset Used
 1. Fashion MNIST Dataset (Load From PyTorch TorchVision Datasets)
-2. Fashion Product Small Dataset (Load From ![Kaggle](https://www.kaggle.com/paramaggarwal/fashion-product-images-small))
+2. Fashion Product Small Dataset (Load From [Kaggle](https://www.kaggle.com/paramaggarwal/fashion-product-images-small))
 
 ## Google Drive Link
-![Google Drive Repository](https://drive.google.com/drive/folders/1SCFhdqIMTEbKVldtK2dzOHchMVCGLxUa?usp=sharing)
+[Google Drive Repository](https://drive.google.com/drive/folders/1SCFhdqIMTEbKVldtK2dzOHchMVCGLxUa?usp=sharing)
 
 ## How to Use:
 1. There will be three files in the dataset. That is, our group Report, Fashion_MNIST_Model and Download_From_Kaggle.ipynb
