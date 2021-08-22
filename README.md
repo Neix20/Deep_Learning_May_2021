@@ -18,6 +18,10 @@ Deep Learning May 2021 Assignment
 ## Google Drive Link
 [Google Drive Repository](https://drive.google.com/drive/folders/1SCFhdqIMTEbKVldtK2dzOHchMVCGLxUa?usp=sharing)
 
+## Github Repo (For This Assignment):
+[Github Repo](https://github.com/Neix20/Deep_Learning_May_2021)
+
+
 ## How to Use:
 1. There will be three files in the dataset. That is, our group Report, Fashion_MNIST_Model and Download_From_Kaggle.ipynb
 2. If you would like to create a new repo from scratch and download dataset from kaggle, please run Download_From_Kaggle.ipynb. You will have to upload your own Kaggle API Json file, otherwise, it is also provided in this repository.
